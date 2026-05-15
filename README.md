@@ -73,8 +73,8 @@ motto:       "Steady and all the way through."
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/mrpc2003/Equivalence-Relationship-Discriminator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrpc2003&repo=Equivalence-Relationship-Discriminator&theme=tokyonight" alt="Equivalence-Relationship-Discriminator"/>
+      <a href="https://github.com/mrpc2003/equivalence-relation-discriminator">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrpc2003&repo=equivalence-relation-discriminator&theme=tokyonight" alt="equivalence-relation-discriminator"/>
       </a>
     </td>
   </tr>
@@ -85,8 +85,8 @@ motto:       "Steady and all the way through."
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/mrpc2003/KOSS_AD-Project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrpc2003&repo=KOSS_AD-Project&theme=tokyonight" alt="KOSS_AD-Project"/>
+      <a href="https://github.com/mrpc2003/iot-entrance-detection">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrpc2003&repo=iot-entrance-detection&theme=tokyonight" alt="iot-entrance-detection"/>
       </a>
     </td>
   </tr>
@@ -98,9 +98,9 @@ motto:       "Steady and all the way through."
 | Project | Description | Key Tech |
 |---|---|---|
 | [SnakeGame_Team10](https://github.com/mrpc2003/SnakeGame_Team10) | Console snake game built as a team project | C++ |
-| [Equivalence-Relationship-Discriminator](https://github.com/mrpc2003/Equivalence-Relationship-Discriminator) | Determines whether a binary relation is an equivalence relation | Algorithms / Data Structures |
+| [Equivalence Relation Discriminator](https://github.com/mrpc2003/equivalence-relation-discriminator) | Determines whether a binary relation is an equivalence relation | Algorithms / Data Structures |
 | [Inverse-Matrix-Calculator](https://github.com/mrpc2003/Inverse-Matrix-Calculator) | Inverse matrix calculator | Numerical Computation |
-| [KOSS_AD-Project](https://github.com/mrpc2003/KOSS_AD-Project) | Access-detection IoT system using Arduino × MQTT × Web/PyQt | Node.js · MQTT · Arduino · PyQt |
+| [IoT Entrance Detection](https://github.com/mrpc2003/iot-entrance-detection) | Access-detection IoT system using Arduino × MQTT × Web/PyQt | Node.js · MQTT · Arduino · PyQt |
 
 </details>
 

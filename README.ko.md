@@ -73,8 +73,8 @@ motto:       "꾸준히, 그리고 끝까지."
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/mrpc2003/Equivalence-Relationship-Discriminator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrpc2003&repo=Equivalence-Relationship-Discriminator&theme=tokyonight" alt="Equivalence-Relationship-Discriminator"/>
+      <a href="https://github.com/mrpc2003/equivalence-relation-discriminator">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrpc2003&repo=equivalence-relation-discriminator&theme=tokyonight" alt="equivalence-relation-discriminator"/>
       </a>
     </td>
   </tr>
@@ -85,8 +85,8 @@ motto:       "꾸준히, 그리고 끝까지."
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/mrpc2003/KOSS_AD-Project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrpc2003&repo=KOSS_AD-Project&theme=tokyonight" alt="KOSS_AD-Project"/>
+      <a href="https://github.com/mrpc2003/iot-entrance-detection">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrpc2003&repo=iot-entrance-detection&theme=tokyonight" alt="iot-entrance-detection"/>
       </a>
     </td>
   </tr>
@@ -98,9 +98,9 @@ motto:       "꾸준히, 그리고 끝까지."
 | 프로젝트 | 한 줄 소개 | 주요 기술 |
 |---|---|---|
 | [SnakeGame_Team10](https://github.com/mrpc2003/SnakeGame_Team10) | 팀 프로젝트로 만든 콘솔 스네이크 게임 | C++ |
-| [Equivalence-Relationship-Discriminator](https://github.com/mrpc2003/Equivalence-Relationship-Discriminator) | 이항 관계의 동치 관계 여부 판별기 | 알고리즘 / 자료구조 |
+| [Equivalence Relation Discriminator](https://github.com/mrpc2003/equivalence-relation-discriminator) | 이항 관계의 동치 관계 여부 판별기 | 알고리즘 / 자료구조 |
 | [Inverse-Matrix-Calculator](https://github.com/mrpc2003/Inverse-Matrix-Calculator) | 역행렬 계산기 | 수치 계산 |
-| [KOSS_AD-Project](https://github.com/mrpc2003/KOSS_AD-Project) | Arduino × MQTT × Web/PyQt 기반 출입 감지 IoT | Node.js · MQTT · Arduino · PyQt |
+| [IoT Entrance Detection](https://github.com/mrpc2003/iot-entrance-detection) | Arduino × MQTT × Web/PyQt 기반 출입 감지 IoT | Node.js · MQTT · Arduino · PyQt |
 
 </details>
 
