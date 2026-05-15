@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Woohyun Kim 👋</h1>
+<h1 align="center">안녕하세요, 김우현입니다 👋</h1>
 
 <p align="center">
-  English | <a href="README.ko.md">한국어</a>
+  <a href="README.md">English</a> | 한국어
 </p>
 
 <p align="center">
@@ -18,22 +18,22 @@
 
 ---
 
-## 🧭 About Me
+## 🧭 소개
 
 ```yaml
-name:        Woohyun Kim (mrpc2003)
-role:        Student Developer
-interests:   [IoT, Computer Vision, Systems Programming]
+name:        김우현 (mrpc2003)
+role:        학생 개발자
+interests:   [IoT, 컴퓨터 비전, 시스템 프로그래밍]
 languages:   [C/C++, Python, Java, JavaScript]
-currently:   Bouncing between console games, IoT systems, and NeRF rendering experiments
-motto:       "Steady and all the way through."
+currently:   콘솔 게임 · IoT 시스템 · NeRF 렌더링 실험을 오가는 중
+motto:       "꾸준히, 그리고 끝까지."
 ```
 
-> I collect the code from coursework and team projects here on GitHub. Even for small outputs, I like leaving a trail of learning through READMEs and commit history.
+> 학부 과제와 팀 프로젝트로 쌓아온 코드들을 GitHub에 차곡차곡 모아두고 있어요. 작은 산출물이라도 README와 커밋 히스토리를 통해 배움의 흔적을 남기는 걸 좋아합니다.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ 기술 스택
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
@@ -63,7 +63,7 @@ motto:       "Steady and all the way through."
 
 ---
 
-## 📌 Featured Projects
+## 📌 주요 프로젝트
 
 <table>
   <tr>
@@ -93,20 +93,20 @@ motto:       "Steady and all the way through."
 </table>
 
 <details>
-<summary>📂 Project Overview</summary>
+<summary>📂 프로젝트 한눈에 보기</summary>
 
-| Project | Description | Key Tech |
+| 프로젝트 | 한 줄 소개 | 주요 기술 |
 |---|---|---|
-| [SnakeGame_Team10](https://github.com/mrpc2003/SnakeGame_Team10) | Console snake game built as a team project | C++ |
-| [Equivalence-Relationship-Discriminator](https://github.com/mrpc2003/Equivalence-Relationship-Discriminator) | Determines whether a binary relation is an equivalence relation | Algorithms / Data Structures |
-| [Inverse-Matrix-Calculator](https://github.com/mrpc2003/Inverse-Matrix-Calculator) | Inverse matrix calculator | Numerical Computation |
-| [KOSS_AD-Project](https://github.com/mrpc2003/KOSS_AD-Project) | Access-detection IoT system using Arduino × MQTT × Web/PyQt | Node.js · MQTT · Arduino · PyQt |
+| [SnakeGame_Team10](https://github.com/mrpc2003/SnakeGame_Team10) | 팀 프로젝트로 만든 콘솔 스네이크 게임 | C++ |
+| [Equivalence-Relationship-Discriminator](https://github.com/mrpc2003/Equivalence-Relationship-Discriminator) | 이항 관계의 동치 관계 여부 판별기 | 알고리즘 / 자료구조 |
+| [Inverse-Matrix-Calculator](https://github.com/mrpc2003/Inverse-Matrix-Calculator) | 역행렬 계산기 | 수치 계산 |
+| [KOSS_AD-Project](https://github.com/mrpc2003/KOSS_AD-Project) | Arduino × MQTT × Web/PyQt 기반 출입 감지 IoT | Node.js · MQTT · Arduino · PyQt |
 
 </details>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub 통계
 
 <p align="center">
   <a href="https://github.com/mrpc2003">
@@ -134,14 +134,14 @@ motto:       "Steady and all the way through."
 ## 🔥 #30NitesOfCode
 
 <p>
-  <a href="https://www.codedex.io/@woohyun/30-nites-of-code">Check out my progress on Codédex →</a>
+  <a href="https://www.codedex.io/@woohyun/30-nites-of-code">Codédex에서 진행 상황 보기 →</a>
 </p>
 
 <img src="https://www.codedex.io/api/petStatus?user=woohyun" alt="@woohyun #30NitesOfCode"/>
 
 ---
 
-## 🌐 Connect
+## 🌐 연결
 
 <p align="center">
   <a href="https://github.com/mrpc2003">
@@ -153,5 +153,5 @@ motto:       "Steady and all the way through."
 </p>
 
 <p align="center">
-  <sub>⭐ If you find a project interesting, a Star is always appreciated!</sub>
+  <sub>⭐ 마음에 드는 프로젝트가 있다면 Star로 응원해주세요!</sub>
 </p>
